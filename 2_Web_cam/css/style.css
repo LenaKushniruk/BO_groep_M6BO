@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(to right, #72FFC4, #1B82FF); /* Replace these colors with your desired gradient */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.button_klik {
+    cursor: pointer;
+    font-size: 2rem;
+    border-radius: 0.5rem;
+    font-family: sans-serif;
+    background: #0CAFFF;
+    color: white;
+}
